@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="poi-lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi/poi-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi/poi-examples-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi/poi-excelant-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi/poi-ooxml-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi/poi-ooxml-schemas-3.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi/poi-scratchpad-3.17.jar!/" />
+      <root url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi/lib" />
+      <root url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi/ooxml-lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/poi/ooxml-lib" recursive="false" />
+  </library>
+</component>
